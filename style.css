@@ -290,3 +290,16 @@ section { padding-block: clamp(44px, 8vw, 84px); }
 .helper img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; filter: grayscale(1); border: 2px solid var(--ink); }
 .helper h3 { font-family: var(--varsity); font-weight: 400; font-size: 1.6rem; letter-spacing: 0.02em; }
 @media (max-width: 480px) { .helper { grid-template-columns: 1fr; } .helper img { max-width: 160px; } }
+
+/* Matched button pair: same shape and shadow; gold turns white on hover, white turns gold */
+.btn, .btn-gold { box-shadow: 5px 5px 0 var(--ink); transition: background-color .15s ease, color .15s ease, transform .15s ease, box-shadow .15s ease; }
+.btn { background: var(--paper); color: var(--ink); border-color: var(--ink); }
+.btn:hover { background: var(--gold); color: var(--ink); transform: translate(2px, 2px); box-shadow: 3px 3px 0 var(--ink); }
+.btn-gold { background: var(--gold); color: var(--ink); border-color: var(--ink); }
+.btn-gold:hover { background: var(--paper); color: var(--ink); }
+.band-ink .btn, .band-ink .btn-gold, .quiz-bar .btn, .quiz-bar .btn-gold { box-shadow: 5px 5px 0 var(--gold); border-color: var(--ink); }
+.band-ink .btn, .quiz-bar .btn { background: var(--paper); color: var(--ink); }
+.band-ink .btn-gold, .quiz-bar .btn-gold { background: var(--gold); color: var(--ink); }
+.band-ink .btn:hover, .quiz-bar .btn:hover { background: var(--gold); color: var(--ink); box-shadow: 3px 3px 0 var(--gold); }
+.band-ink .btn-gold:hover, .quiz-bar .btn-gold:hover { background: var(--paper); color: var(--ink); box-shadow: 3px 3px 0 var(--gold); }
+.copy-row .btn { box-shadow: none; }

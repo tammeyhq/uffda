@@ -618,7 +618,7 @@ home = f"""{POSTER}
   <div class="stack"><span class="eyebrow" style="color:var(--ink)">Get help</span><h2>Rather have someone walk you <span class="accent">through it?</span></h2></div>
   <div class="stack">
     <p>Request personalized help or training for you or your team, one step at a time, at your pace.</p>
-    <div class="actions"><a class="btn" href="get-help.html" style="background:var(--ink);color:var(--paper)">Get help</a></div>
+    <div class="actions"><a class="btn" href="get-help.html">Get help</a></div>
   </div>
 </div></section>"""
 page("index.html", "Uffda Academy",
@@ -700,7 +700,7 @@ classes = f"""<header class="article-head band-ink on-ink inked" data-ink="edge"
   <div class="stack"><span class="eyebrow" style="color:var(--ink)">Your vote counts</span><h2>What should we teach <span class="accent">first?</span></h2></div>
   <div class="stack">
     <p>Tell us what you'd like to learn, and we'll let you know when the first classes are ready.</p>
-    <div class="actions"><a class="btn" href="get-help.html" style="background:var(--ink);color:var(--paper)">Tell us</a></div>
+    <div class="actions"><a class="btn" href="get-help.html">Tell us</a></div>
   </div>
 </div></section>"""
 page("classes.html", "Classes", "Short, self-paced classes in everyday technology, creative tools, small business skills, and AI made simple.",
