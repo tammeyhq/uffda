@@ -732,6 +732,7 @@ about = f"""<header class="article-head band-ink on-ink inked" data-ink="edge" d
       <p>That passion inspired me to co-create Uffda Academy.</p>
       <p>I believe technology should make life easier, not more complicated. My favorite moments are when someone goes from "I have no idea how to do this" to "Look what I just did!"</p>
       <p>A little patience, a little humor, and a willingness to try can take us a long way!</p>
+      <p>More about me at <a href="https://tammeybrown.com">tammeybrown.com</a></p>
       <div class="actions"><a class="btn btn-gold" href="https://calendar.app.google/PtwzU3Zmm2dFBqB67">Book a 15-minute call</a></div>
     </div>
   </div>
