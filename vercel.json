@@ -1,0 +1,111 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/blog",
+      "destination": "/resources",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "/get-help",
+      "permanent": true
+    },
+    {
+      "source": "/courses",
+      "destination": "/classes",
+      "permanent": true
+    },
+    {
+      "source": "/home",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/home-old",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/terms-of-service",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/disclaimer",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/category/:slug*",
+      "destination": "/resources",
+      "permanent": true
+    },
+    {
+      "source": "/author/:slug*",
+      "destination": "/resources",
+      "permanent": true
+    },
+    {
+      "source": "/feed",
+      "destination": "/resources",
+      "permanent": true
+    },
+    {
+      "source": "/workshop",
+      "destination": "/classes",
+      "permanent": true
+    },
+    {
+      "source": "/q1-workshops",
+      "destination": "/classes",
+      "permanent": true
+    },
+    {
+      "source": "/q2-workshops",
+      "destination": "/classes",
+      "permanent": true
+    },
+    {
+      "source": "/q3-workshops",
+      "destination": "/classes",
+      "permanent": true
+    },
+    {
+      "source": "/q4-workshops",
+      "destination": "/classes",
+      "permanent": true
+    },
+    {
+      "source": "/uffda-academy-canva",
+      "destination": "/classes",
+      "permanent": true
+    },
+    {
+      "source": "/myservices",
+      "destination": "/get-help",
+      "permanent": true
+    },
+    {
+      "source": "/just-starting",
+      "destination": "/get-help",
+      "permanent": true
+    },
+    {
+      "source": "/why-choose-me",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/testimonials",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/(shop|cart|checkout|checkout-2|my-account|profile|registration|registration-success|reset-password|customer-dashboard|order-confirmation)",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}

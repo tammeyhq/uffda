@@ -1,0 +1,8 @@
+# Uffda Academy website
+
+Source for uffdaacademy.com, hosted on Vercel. Plain HTML/CSS/JS, no build step.
+
+- Pages are the `.html` files at the top level (`index.html` is the home page).
+- `style.css` holds the look; `site.js` runs the quiz, the next Squad meetup date, and the Classes filter.
+- Images live in `wp-content/uploads/` so links from the old WordPress site keep working.
+- `vercel.json` sets clean URLs and redirects old WordPress pages to their new homes.
