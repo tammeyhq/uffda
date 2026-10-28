@@ -726,15 +726,12 @@ about = f"""<header class="article-head band-ink on-ink inked" data-ink="edge" d
   <div class="person">
     <img src="{U}2022/12/UA22-30-scaled.jpg" alt="Tammey">
     <div class="stack measure">
-      <h2>Tammey</h2>
-      <p>I grew up in the mountains of Montana but now live in the beautiful state of Minnesota. I was born into a large family, which taught me patience and the love of writing, as I'd often go off and write to get away from everyone!</p>
-      <p>Why teaching? I love to come alongside people and help them achieve their dreams and desires! Watching eyes light up when a concept is grasped is so amazing.</p>
-      <p>I'm thankful for my many years in the corporate world, where I developed skills in team building, planning, structure, organizing, and training others.</p>
-      <ul style="margin:0;padding-left:1.2em;display:grid;gap:6px">
-        <li><strong>Struggling with technology?</strong> I have years of experience and training to share with you!</li>
-        <li><strong>Feel like you're spinning your wheels?</strong> Let's brainstorm a <a href="what-is-a-content-calendar.html">content calendar</a>!</li>
-        <li><strong>Together</strong> we'll develop a plan to move into action!</li>
-      </ul>
+      <h2>Meet Tammey</h2>
+      <p>I'm a problem solver, technology enthusiast, and teacher at heart with over 30 years of experience in business systems, organization, training, and finding better ways to get things done.</p>
+      <p>I love turning complicated processes into practical solutions, whether that means building websites, improving workflows, exploring new technology, or helping someone master a new skill.</p>
+      <p>That passion inspired me to co-create Uffda Academy.</p>
+      <p>I believe technology should make life easier, not more complicated. My favorite moments are when someone goes from "I have no idea how to do this" to "Look what I just did!"</p>
+      <p>A little patience, a little humor, and a willingness to try can take us a long way!</p>
       <div class="actions"><a class="btn btn-gold" href="https://calendar.app.google/PtwzU3Zmm2dFBqB67">Book a 15-minute call</a></div>
     </div>
   </div>
