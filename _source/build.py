@@ -714,7 +714,7 @@ about = f"""<header class="article-head band-ink on-ink inked" data-ink="edge" d
   <div class="stack">
     <h2>It started over <span class="accent">coffee</span></h2>
     <img src="{U}2022/08/Tammey-Sue-Photo-770x1024.png" alt="Sue and Tammey take a quick selfie during their weekly board meeting at Red River Coffee in Fargo, ND" style="max-width:320px;border:3px solid var(--ink)">
-    <p class="photo-note">Sue and Tammey at <a href="https://www.redrivercoffeecompany.com/">Red River Coffee</a> during one of their weekly board meetings.</p>
+    <p class="photo-note">Sue and Tammey at Red River Coffee during one of their weekly board meetings.</p>
   </div>
   <div class="stack measure">
     <p><strong>It started over coffee in 2017.</strong> Tammey and Sue began scheduling weekly "board meetings," time blocked on their calendars to meet, connect, share what was going on in their lives, and brainstorm. They called them board meetings because seeing them on the calendar reminded them of the importance of their time together.</p>
